@@ -45,6 +45,9 @@ namespace Banco
             Console.WriteLine(conta);
 
             Console.WriteLine(DateTime.Now);
+
+            Console.WriteLine("Tchau");
+
         }
 
     }
